@@ -17,9 +17,6 @@ Here are some ideas to get you started:
 
 <!-- 标题部分 -->
 <h1 align="center">👾 Hey, I'm WOOREAY!</h1>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=你的用户名&label=👁️‍🗨️ Visitors&color=blueviolet&style=flat-square" alt="访客计数器"/>
-</p>
 
 ---
 
@@ -55,8 +52,11 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WOOREAY&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff69b4&icon_color=79c0ff" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WOOREAY&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff69b4" height="150"/>
+  <!-- 贡献/仓库图标 -->
+<img src="https://github-readme-stats.vercel.app/api?username=mUlXb&show_icons=true&theme=tokyonight&cache_seconds=86400" height="150" />
+
+<!-- 语言统计（紧凑布局） -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mUlXb&layout=compact&theme=tokyonight&cache_seconds=86400" height="150" />
 </p>
 
 ---
