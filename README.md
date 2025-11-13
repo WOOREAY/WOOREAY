@@ -1,19 +1,19 @@
 <!-- 头部背景图 -->
-<!-- <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=WOOREAY&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
-</div> -->
-
-<!-- 或者使用自定义背景图，将下面的链接替换为你的图片URL -->
-<img width="100%" src="./images/background.jpg" alt="Header"/>
+<div align="center">
+  <img width="100%" height="300" style="object-fit: cover;" src="./images/background.jpg" alt="Header"/>
+</div>
 
 <div align="center">
   
 # 👋 Hi, I'm WOOREAY!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&multiline=true&width=600&height=80&lines=%F0%9F%9A%80+Full+Stack+Developer;%F0%9F%8E%A8+Design+%26+Code+Enthusiast;%E2%9C%A8+Building+Dreams+with+Code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&height=60&lines=Full+Stack+Developer;Design+%26+Code+Enthusiast;Building+Dreams+with+Code" alt="Typing SVG" />
+
+<br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=WOOREAY&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/WOOREAY)
 [![GitHub followers](https://img.shields.io/github/followers/WOOREAY?label=Followers&style=social)](https://github.com/WOOREAY?tab=followers)
+[![GitHub following](https://img.shields.io/github/following/WOOREAY?label=Following&style=social)](https://github.com/WOOREAY?tab=following)
 [![GitHub stars](https://img.shields.io/github/stars/WOOREAY?label=Stars&style=social)](https://github.com/WOOREAY)
 
 </div>
@@ -22,22 +22,15 @@
 
 ## 🧑‍💻 About Me  
 
-```javascript
-const WOOREAY = {
-    role: "Full Stack Developer",
-    location: "🌏 Somewhere on Earth",
-    currentFocus: ["Rust Systems Programming", "Frontend Engineering"],
-    interests: ["🛠️ Lightweight Tools", "🎨 Creative UI/UX", "🌟 Open Source"],
-    motto: "Clean code is like a good story - simple, clear, and powerful",
-    lifePhilosophy: "把想法敲成现实，用代码编织世界"
-};
-```
+> 💡 **Full Stack Developer** | � **Design Enthusiast** | 🌟 **Open Source Contributor**
 
 - 🔭 **目前在做**：探索 Rust 生态 & 贡献开源社区
 - 🌱 **正在学习**：系统编程、前端工程化最佳实践
 - 👯 **寻求合作**：有趣的工具类项目、创意 Web 应用
-- 💬 **聊聊**：技术、摄影、独立游戏、咖啡文化
-- 📫 **联系我**：通过下方社交链接找到我
+- 💬 **兴趣爱好**：技术、摄影、独立游戏、旅行探索
+- 📫 **联系我**：欢迎通过下方社交链接交流
+
+**座右铭：** *"把想法敲成现实，用代码编织世界"*
 
 ---
 
@@ -153,22 +146,22 @@ const WOOREAY = {
 <div align="center">
   
 <a href="https://github.com/WOOREAY">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=WOOREAY&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WOOREAY&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"/>
 </a>
 <a href="https://github.com/WOOREAY">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=WOOREAY&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WOOREAY&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
 </a>
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/WOOREAY">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WOOREAY&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FFA500&currStreakLabel=C9D1D9"/>
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=WOOREAY&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FFA500&currStreakLabel=C9D1D9"/>
 </a>
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/WOOREAY">
-  <img src="https://github-profile-trophy.vercel.app/?username=WOOREAY&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15"/>
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=WOOREAY&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFA500"/>
 </a>
 
 </div>
