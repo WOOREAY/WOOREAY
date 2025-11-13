@@ -1,3 +1,11 @@
+<!-- 头部背景图 -->
+<!-- <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=WOOREAY&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
+</div> -->
+
+<!-- 或者使用自定义背景图，将下面的链接替换为你的图片URL -->
+<img width="100%" src="./images/background.jpg" alt="Header"/>
+
 <div align="center">
   
 # 👋 Hi, I'm WOOREAY!
@@ -12,11 +20,9 @@
 
 ---
 
----
-
 ## 🧑‍💻 About Me  
 
-```typescript
+```javascript
 const WOOREAY = {
     role: "Full Stack Developer",
     location: "🌏 Somewhere on Earth",
@@ -30,8 +36,8 @@ const WOOREAY = {
 - 🔭 **目前在做**：探索 Rust 生态 & 贡献开源社区
 - 🌱 **正在学习**：系统编程、前端工程化最佳实践
 - 👯 **寻求合作**：有趣的工具类项目、创意 Web 应用
-- � **聊聊**：技术、摄影、独立游戏、咖啡文化
-- � **联系我**：通过下方社交链接找到我
+- 💬 **聊聊**：技术、摄影、独立游戏、咖啡文化
+- 📫 **联系我**：通过下方社交链接找到我
 
 ---
 
@@ -146,18 +152,25 @@ const WOOREAY = {
 
 <div align="center">
   
-  <!-- GitHub统计卡片 -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=WOOREAY&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=WOOREAY&theme=tokyonight&hide_border=true" />
-  
-  <br/>
-  
-  <!-- 语言使用统计 -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WOOREAY&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-  
-  <!-- 贡献图 -->
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=WOOREAY&theme=tokyo-night&hide_border=true&area=true" />
-  
+<a href="https://github.com/WOOREAY">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=WOOREAY&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"/>
+</a>
+<a href="https://github.com/WOOREAY">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=WOOREAY&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/WOOREAY">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WOOREAY&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FFA500&currStreakLabel=C9D1D9"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/WOOREAY">
+  <img src="https://github-profile-trophy.vercel.app/?username=WOOREAY&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15"/>
+</a>
+
 </div>
 
 ---
@@ -178,13 +191,65 @@ const WOOREAY = {
 
 ---
 
-## 🎈 Fun Facts  
-
-- 🎮 最近沉迷的独立游戏：《纪念碑谷》 & 《星露谷物语》
-- 📷 常用设备：Nikon Z62
-- 🎵 编程BGM私藏：Nujabes的Lo-fi + 巴赫的小提琴协奏曲（专注buff叠满）
-- ☕ 咖啡偏好：美式加冰（代码再难，一口冰美式就能续上）
+## � Life Beyond Code
 
 <div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🎮 Gaming
+
+<img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="PlayStation"/>
+<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/>
+
+**最爱游戏**
+- 🏛️ 纪念碑谷
+- 🌾 星露谷物语
+- 🎯 空洞骑士
+- 🌟 塞尔达传说
+
+</td>
+<td align="center" width="33%">
+
+### 📷 Photography
+
+<img src="https://img.shields.io/badge/Nikon-FFE000?style=for-the-badge&logo=nikon&logoColor=black" alt="Nikon"/>
+<img src="https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white" alt="Lightroom"/>
+
+**装备**
+- 📸 Nikon Z62
+- � 风光摄影爱好者
+- 🌃 街拍记录者
+- 🎨 后期调色师
+
+</td>
+<td align="center" width="33%">
+
+### ✈️ Travel
+
+<img src="https://img.shields.io/badge/Travel-00BFFF?style=for-the-badge&logo=google-maps&logoColor=white" alt="Travel"/>
+<img src="https://img.shields.io/badge/Adventure-FF6B6B?style=for-the-badge&logo=hiking&logoColor=white" alt="Adventure"/>
+
+**足迹**
+- 🗺️ 探索未知之地
+- 🏔️ 户外徒步爱好
+- 📖 用镜头记录世界
+- 🌏 在路上寻找灵感
+
+</td>
+</tr>
+</table>
+
+<p><em>"代码是我的语言，游戏是我的放松，摄影是我的视角，旅行是我的灵感来源"</em></p>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+  
   <p>✨ 用代码编织世界，用热爱点亮日常 ✨</p>
 </div>
