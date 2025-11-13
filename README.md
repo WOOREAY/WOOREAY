@@ -198,10 +198,11 @@
 <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/>
 
 **最爱游戏**
-- 🏛️ 纪念碑谷
-- 🌾 星露谷物语
-- 🎯 空洞骑士
-- 🌟 塞尔达传说
+- 纪念碑谷
+- 王者荣耀
+- 原神
+- 文明6
+- 城市天际线
 
 </td>
 <td align="center" width="33%">
