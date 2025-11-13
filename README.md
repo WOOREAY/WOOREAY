@@ -12,9 +12,9 @@
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=WOOREAY&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/WOOREAY)
-[![GitHub followers](https://img.shields.io/github/followers/WOOREAY?label=Followers&style=social)](https://github.com/WOOREAY?tab=followers)
-[![GitHub following](https://img.shields.io/github/following/WOOREAY?label=Following&style=social)](https://github.com/WOOREAY?tab=following)
-[![GitHub stars](https://img.shields.io/github/stars/WOOREAY?label=Stars&style=social)](https://github.com/WOOREAY)
+[![GitHub](https://img.shields.io/badge/GitHub-WOOREAY-181717?style=flat&logo=github)](https://github.com/WOOREAY)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:wooreay@gmail.com)
+[![Blog](https://img.shields.io/badge/Blog-Visit-21759B?style=flat&logo=wordpress&logoColor=white)](https://wooreay.github.io)
 
 </div>
 
