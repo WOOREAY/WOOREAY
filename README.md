@@ -183,12 +183,8 @@
 ### GitHub Insights
 
 <div align="center">
-  <a href="https://github.com/WOOREAY">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=WOOREAY&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F78166&text_color=C9D1D9" alt="WOOREAY GitHub stats" />
-  </a>
-  <a href="https://github.com/WOOREAY">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WOOREAY&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="WOOREAY top languages" />
-  </a>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WOOREAY&theme=github_dark" alt="WOOREAY GitHub stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WOOREAY&theme=github_dark" alt="WOOREAY top languages" />
   <br /><br />
   <a href="https://github.com/WOOREAY">
     <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=WOOREAY&theme=github-compact&hide_border=true&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=F78166" alt="WOOREAY activity graph" />
